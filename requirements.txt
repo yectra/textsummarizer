@@ -1,0 +1,9 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+PyPDF2==1.26.0
+aiofiles==0.7.0
+python-docx==0.8.11
+nltk==3.6.5
+sumy==0.8.1
+python-multipart==0.0.5
+numpy==1.21.0
